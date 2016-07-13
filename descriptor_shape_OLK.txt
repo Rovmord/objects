@@ -1,0 +1,29 @@
+descriptor_shape_standard
+
+[OBJECT:DESCRIPTOR_SHAPE]
+
+[SHAPE:MUSHROOM_CUT]
+	[NAME:gem:gems]
+	[ADJ:mushroom cut]
+	[GEMS_USE_ADJ]
+	[TILE:4]
+
+[SHAPE:FUNGUS]
+	[NAME:gem:gems]
+	[ADJ:fungus cut]
+	[GEMS_USE_ADJ]
+	[TILE:4]
+
+[SHAPE:NOSE_CUT]
+	[NAME:gem:gems]
+	[WORD:NOSE]
+	[ADJ:nose cut]
+	[GEMS_USE_ADJ_NOUN]
+	[TILE:4]
+
+[SHAPE:NOSE]
+	[NAME:nose:noses]
+	[WORD:NOSE]
+	[ADJ:cut]
+	[GEMS_USE_ADJ_NOUN]
+	[TILE:4]

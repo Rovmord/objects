@@ -1,0 +1,39 @@
+item_toy
+
+[OBJECT:ITEM]
+
+[ITEM_TOY:ITEM_TOY_NOSE_TOY]
+[NAME:toy nose:toy noses]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_HORSE]
+[NAME:toy horse:toy horses]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CHEESE_SLICER]
+[NAME:toy cheese slicer:toy cheesee slicers]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_CABIN]
+[NAME:toy cabin:toy cabins]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_SKII]
+[NAME:toy skiis:toy skiis]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_FISH]
+[NAME:toy fish:toy fishes]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_POKER]
+[NAME:toy poker:toy pokers]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_ROCK_PET]
+[NAME:pet rock:pet rocks]
+[HARD_MAT]
+
+[ITEM_TOY:ITEM_TOY_MUSHROOM]
+[NAME:pet mushroom:toy mushrooms]
+[HARD_MAT]

@@ -1,0 +1,40 @@
+Changelist #1
+
+File: plant_grasses_OLK.txt
+x-Biome token "ANY_WETLANDS" --> Change to "ANY_WETLAND"
+>-"SELECT_MATERIAL" is ivalid plant token. invest. ##FW: Olav##
+>-"CE_ERRATIC_BEHAVIOR" ivalid token: "NOSE". ##FW: Olav##
+
+File: creature_OLK_draug.txt
+x-Creature token "NOTLIVING" missing underscore.
+x*-Creature token "NO_AGING" is invalid token. Reserved for vamp curse? ## Removed. Apparently interaction token. ###
+
+File: creature_OLK_flycap.txt
+x*-"SWIM_SPEED", change to: "SWIMS_LEARNED". ### "SWIM_SPEED" not a value, tried to replace gaits. ###
+
+File: entity_OLK_flycap.txt
+x-Token "PLANT" not entity token.
+x-Token "USE_CAVE_PLANTS" not entity token.
+
+File: entity_OLK_jotun.txt
+x-Invalid sphere token "STORM"
+
+File: entity_OLK_nisse.txt
+x-Invalid entity token "PLANT_MAT" x5
+x-Biome token "ANY_TUNDRA": remove "ANY_".
+x-Biome token "ANY_MOUNTAIN": remove "ANY_".
+
+File: entity_troll.txt
+x-Unused file, check OLK for similar. Sphere token "MOUNTAIN" add "S".
+
+Creature: DRAUG
+>>-Error in finalizing tissue. Add token for non-tissue creature? ### Postponed fix, waiting for material file. ###
+
+Entity: TRICKERY
+x-Creature token "VAETTI" not recognized.
+
+Entity: DARK_MOUNTAIN
+x-Creature token "BERGATROLL" not recognized.
+
+ALL ENTITIES:
+X-Translation!

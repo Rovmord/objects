@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88bfd926-921c-4693-8f85-4e0b7e0c8d68" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Changelist 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Changelog 1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Changelog 2 nk.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/b_detail_plan_default.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/body_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/body_default.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/body_rcp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/building_custom.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/c_variation_default.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_alv.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_beast_noekk.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_beast_orm.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_beast_tusse.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_draug.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_dverg.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_flycap.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_jotun.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_nisse.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_serkmann.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_troll.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_vaetti.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_vering.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_xbeast_tusse.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_zbeast_hulder.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_OLK_zbeast_nisse_rampe.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_amphibians.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_annelids.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_birds.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_birds_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_bug_slug_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_desert_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_domestic.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_equipment.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_fanciful.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_insects.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_large_mountain.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_large_ocean.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_large_riverlake.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_large_temperate.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_large_tropical.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_large_tundra.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_mountain_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_next_underground.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_ocean_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_other.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_reptiles.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_riverlakepool_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_small_mammal_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_small_mammals.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_small_ocean.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_small_riverlake.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_standard.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_subterranean.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_temperate_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_tropical_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/creature_tundra_taiga_new.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/descriptor_color_standard.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/descriptor_pattern_iris_eye.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/descriptor_pattern_pupil_eye.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/descriptor_pattern_special.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/descriptor_shape_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/descriptor_shape_standard.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_alv.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_beast_tusse.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_draug.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_dverg.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_flycap.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_jotun.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_nisse.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_serkmann.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_troll.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_vaetti.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/entity_OLK_vering.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples and notes/gaits.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples and notes/item_instrument_example.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/examples and notes/reaction_instrument_example.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inorganic_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inorganic_metal.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inorganic_mineral_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inorganic_other.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inorganic_stone_gem.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inorganic_stone_layer.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inorganic_stone_mineral.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/inorganic_stone_soil.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interaction_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/interaction_standard.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_OLK_armor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_OLK_serkmann.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_ammo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_ammo_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_ammo_troll.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_armor.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_food.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_gloves.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_helm.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_pants.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_shield.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_shoes.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_siegeammo.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_tool.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_toy.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_toys_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_trapcomp.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_troll.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_weapon.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_weapons_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/item_weapons_OLK_vering.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/language_DWARF.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/language_ELF.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/language_GOBLIN.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/language_HUMAN.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/language_SYM.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/language_words.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material_template_OLK_nordic.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/material_template_default.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plant_crops.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plant_garden.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plant_grasses.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plant_grasses_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plant_new_trees.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plant_standard.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plant_tree_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reaction_OLK.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reaction_adv_carpenter.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reaction_olk_vaetti.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reaction_other.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reaction_smelter.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text/book_art.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text/book_instruction.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/text/secret_death.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tissue_template_OLK_nordic.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tissue_template_default.txt" />
+    </list>
+    <ignored path="objects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="objects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="creature_OLK_beast_noekk.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/creature_OLK_beast_noekk.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-476">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Changelog 2 nk.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Changelog 2 nk.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="creature_OLK_draug.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/creature_OLK_draug.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="31" column="38" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/creature_OLK_draug.txt" />
+        <option value="$PROJECT_DIR$/creature_OLK_vering.txt" />
+        <option value="$PROJECT_DIR$/creature_OLK.txt" />
+        <option value="$PROJECT_DIR$/Changelog 2 nk.txt" />
+        <option value="$PROJECT_DIR$/creature_OLK_beast_noekk.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state />
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_d76a6a98c9315931ec4927243517bc09e9b731a0/mingw32/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="objects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="objects" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="objects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="objects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="objects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="objects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="objects" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88bfd926-921c-4693-8f85-4e0b7e0c8d68" name="Default" comment="" />
+      <created>1468426402345</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1468426402345</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Change in Changenote">
+      <created>1468441869098</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1468441869098</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2472178" sideWeight="0.48757765" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3416149" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960254" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2472178" sideWeight="0.5124224" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change in Changenote" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change in Changenote" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/creature_OLK_beast_noekk">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creature_OLK_vering.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/material_template_default.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creature_OLK.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1805">
+          <caret line="213" column="30" selection-start-line="213" selection-start-column="30" selection-end-line="213" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inorganic_metal.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="88" column="17" selection-start-line="88" selection-start-column="11" selection-end-line="88" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creature_OLK_draug.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="31" column="38" selection-start-line="31" selection-start-column="34" selection-end-line="31" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Changelog 2 nk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/creature_OLK_beast_noekk.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-476">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
